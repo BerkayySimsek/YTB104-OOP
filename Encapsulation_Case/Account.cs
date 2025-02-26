@@ -47,10 +47,8 @@ public class Account
             _withdrawal = value + fee;
         }
     }
-    public double TotalAmount
-    {
-        get => Deposit - Withdrawal;
-    }
+    public double TotalAmount => Deposit - Withdrawal;
+
     public Account(string ibanNumber, string personName, double paraYatir, double paraCek)
     {
         IbanNo = ibanNumber;

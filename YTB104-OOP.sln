@@ -53,6 +53,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqCase", "Case_1\LinqCase
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation_Case", "Encapsulation_Case\Encapsulation_Case.csproj", "{283E004F-9D40-42AE-AD85-CE4E3CC9F653}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{99A22678-46E0-4AF5-91A4-E2D30F9FADB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce", "ECommerce\ECommerce.csproj", "{0587BDC4-82BA-4591-8637-C79EFB1F8EF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +163,14 @@ Global
 		{283E004F-9D40-42AE-AD85-CE4E3CC9F653}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{283E004F-9D40-42AE-AD85-CE4E3CC9F653}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{283E004F-9D40-42AE-AD85-CE4E3CC9F653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99A22678-46E0-4AF5-91A4-E2D30F9FADB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A22678-46E0-4AF5-91A4-E2D30F9FADB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A22678-46E0-4AF5-91A4-E2D30F9FADB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A22678-46E0-4AF5-91A4-E2D30F9FADB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0587BDC4-82BA-4591-8637-C79EFB1F8EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0587BDC4-82BA-4591-8637-C79EFB1F8EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0587BDC4-82BA-4591-8637-C79EFB1F8EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0587BDC4-82BA-4591-8637-C79EFB1F8EF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
