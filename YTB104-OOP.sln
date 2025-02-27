@@ -61,6 +61,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev_1", "Odev_1\Odev_1.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism_2", "Polymorphism_2\Polymorphism_2.csproj", "{61269881-1036-4893-8A5E-51FDD02C687C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{8789EA6A-2F52-4861-8481-8C4377A676B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandlingExample", "ExceptionHandlingExample\ExceptionHandlingExample.csproj", "{3B4FBAAC-FA1A-4C77-8652-FB6144C43ABC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +187,14 @@ Global
 		{61269881-1036-4893-8A5E-51FDD02C687C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61269881-1036-4893-8A5E-51FDD02C687C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61269881-1036-4893-8A5E-51FDD02C687C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8789EA6A-2F52-4861-8481-8C4377A676B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8789EA6A-2F52-4861-8481-8C4377A676B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8789EA6A-2F52-4861-8481-8C4377A676B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8789EA6A-2F52-4861-8481-8C4377A676B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B4FBAAC-FA1A-4C77-8652-FB6144C43ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B4FBAAC-FA1A-4C77-8652-FB6144C43ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B4FBAAC-FA1A-4C77-8652-FB6144C43ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B4FBAAC-FA1A-4C77-8652-FB6144C43ABC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
